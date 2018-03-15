@@ -4,13 +4,13 @@
     "connector": "memory"
   },
   "mogods": {
-    "host": "127.0.0.1",
-    "port": 27017,
-    "url": "mongodb://127.0.0.1:27017",
+    "host": "ds213759.mlab.com",
+    "port": 13759,
+    "url": "mongodb://admin:admin123@ds213759.mlab.com:13759/tech_session",
     "database": "tech_session",
-    "password": "",
+    "password": "admin123",
     "name": "mogods",
-    "user": "",
+    "user": "admin",
     "connector": "mongodb"
   }
 }
